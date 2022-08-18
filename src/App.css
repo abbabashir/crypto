@@ -1,10 +1,10 @@
-
+@import url('https://fonts.google.com/specimen/Imbue?query=Imbue');
 
 *{
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: '', cursive;
+  font-family: cursive,'Imbue';
   background-color: #00004c;
   color: #ffffff;
 }
